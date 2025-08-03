@@ -4,4 +4,4 @@ branch = 'main'
 patch = 2
 repository = 'https://raw.githubusercontent.com/WLACDeveloper/Wlap-FlashTool/refs/heads/Full/'
 #Если версия ниже минимальной, то начнется скачивание полной версии программыы
-update_packages=['image/test']
+update_packages=['image/system.png']
